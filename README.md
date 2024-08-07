@@ -1,1 +1,1 @@
-# RemoteWork_Platform
+Creating a Remote Work and Virtual Meeting Platform with some additional unique features
